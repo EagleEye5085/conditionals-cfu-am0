@@ -11,7 +11,6 @@
 #-------------------
 # PART 1: Comparing variables
 #-------------------
-
 number_teachers = 4
 number_students = 20
 string_teachers = "4"
